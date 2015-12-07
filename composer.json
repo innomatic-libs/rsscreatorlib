@@ -1,0 +1,17 @@
+{
+    "name": "innomatic-libs/rsscreatorlib",
+    "description": "RSS creator class",
+    "homepage": "http://www.innomatic.io",
+    "license": "BSD-3-Clause",
+    "type": "innomatic-legacy-application",
+    "authors": [
+        {
+            "name": "Innomatic Team",
+            "homepage": "http://www.innomatic.io"
+        }
+    ],
+    "require": {
+        "innomatic/innomatic-legacy-installer": "^1.0@alpha",
+        "innomatic/innomatic-legacy": ">=6.4 <8.0"
+    }
+}
