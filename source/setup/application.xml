@@ -4,7 +4,7 @@
 	<definition>
 		<idname>rsscreatorlib</idname>
 		<release>
-			<version>1.0-2</version>
+			<version>1.0.3</version>
 			<date>2008/12/15</date>
 			<changesfile>CHANGES</changesfile>
 		</release>
